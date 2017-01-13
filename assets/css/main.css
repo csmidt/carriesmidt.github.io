@@ -1620,7 +1620,7 @@
 		.custom {
 			color:black;
 			font-weight: bold;
-			background-color: rgba(230, 230, 230, .5);
+			/*background-color: rgba(230, 230, 230, .5);*/
 		}
 
 
@@ -2038,7 +2038,7 @@
 			}
 
 				#header .icons a:hover {
-					color: #fff;
+					color: #00e6e6;
 				}
 
 	#logo {
